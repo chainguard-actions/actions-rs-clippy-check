@@ -1,5 +1,7 @@
 # actions-rs/clippy-check
 
+📎 GitHub Action for PR annotations with clippy warnings
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions-rs/clippy-check](https://github.com/actions-rs/clippy-check).
 
 ## Versions
