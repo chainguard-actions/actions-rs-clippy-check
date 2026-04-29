@@ -1,6 +1,12 @@
 # actions-rs/clippy-check
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions-rs/clippy-check](https://github.com/actions-rs/clippy-check).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v1.0.7 | [`v1.0.7`](https://github.com/chainguard-actions/clippy-check/tree/v1.0.7) | — |
 
 ## Privacy
 
