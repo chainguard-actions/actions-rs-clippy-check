@@ -2,5 +2,6 @@
   "owner": "actions-rs",
   "name": "clippy-check",
   "visibility": "internal",
-  "description": "📎 GitHub Action for PR annotations with clippy warnings"
+  "description": "📎 GitHub Action for PR annotations with clippy warnings",
+  "block_publish": false
 }
