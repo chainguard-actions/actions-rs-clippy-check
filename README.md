@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v1.0.7 | [`v1.0.7`](https://github.com/chainguard-actions/clippy-check/tree/v1.0.7) | — |
+| v1.0.7 | [`v1.0.7`](https://github.com/chainguard-actions/actions-rs--clippy-check/tree/v1.0.7) | — |
 
 ## Privacy
 
